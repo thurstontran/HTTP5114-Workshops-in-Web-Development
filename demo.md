@@ -32,3 +32,22 @@ This is an unnumbered list:
 - This is item three.
 
 ![BrickMMO logo](planet.png)
+
+The `span` tag is an inline elemtn.
+
+```javascript
+//This is multiple lines of JavaScript
+let test = 1;
+if(test ==1) test = 2;
+```
+
+## Tables 
+
+| Heading 1 | Heading 2 | Heading 3 |
+| --------- | --------- | --------- |
+| Content 1 | Content 2 | Content 3 |
+| Content 4 | Content 5 | Content 6 |
+
+Heading 1 | Heading 2 | Heading 3 
+--- | --- | ---
+Content 1 | Content 2 | Content 3
