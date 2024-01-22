@@ -23,8 +23,12 @@ This is a numbered list:
 
 4. This is item three.
 
+This is a link to [BrickMMO](https://brickmmo.com)
+
 This is an unnumbered list:
 
 - This is item one.
 - This is item two.
 - This is item three.
+
+![BrickMMO logo](planet.png)
